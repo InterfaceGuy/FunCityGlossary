@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"fcc26bfbd61b88de","x":789,"y":1242,"width":400,"height":400,"type":"file","file":"Biosphere/README.md"},
+		{"id":"3c2f1205e345f1a0","x":-716,"y":-162,"width":400,"height":400,"type":"file","file":"Vision/README.md"},
+		{"id":"1df0247d7cde60ee","x":-196,"y":-191,"width":400,"height":400,"type":"file","file":"Narrative/README.md"},
+		{"id":"38a0b45f7f6ec732","x":-460,"y":-680,"width":400,"height":400,"type":"file","file":"DomesticatedMind/README.md"},
+		{"id":"034fd16597556a23","x":260,"y":-640,"width":400,"height":400,"type":"file","file":"LiminalMind/README.md"},
+		{"id":"4705c1416bc86a44","x":-483,"y":491,"width":400,"height":400,"type":"file","file":"Moloch/README.md"},
+		{"id":"65b673bf23f4592c","x":-974,"y":649,"width":400,"height":400,"type":"file","file":"MultipolarTrap/README.md"},
+		{"id":"17359ea0fa2471e6","x":92,"y":1018,"width":400,"height":400,"type":"file","file":"Noosphere/README.md"},
+		{"id":"10e8d7dae1fba6d3","x":-853,"y":-606,"width":400,"height":400,"type":"file","file":"Hyperstition/README.md"},
+		{"id":"c1d306c2c038c437","x":420,"y":-162,"width":400,"height":400,"type":"file","file":"CollectiveIntelligence/README.md"},
+		{"id":"c59050abedb596a4","x":420,"y":400,"width":400,"height":400,"type":"file","file":"MiracleConsciousness/README.md"},
+		{"id":"32d30740f1248b77","x":-453,"y":940,"width":400,"height":400,"type":"file","file":"MolochConsciousness/README.md"},
+		{"id":"2f0fb7396cb7dc22","x":-20,"y":340,"width":400,"height":400,"type":"file","file":"GameTheory/README.md"}
+	],
+	"edges":[]
+}
