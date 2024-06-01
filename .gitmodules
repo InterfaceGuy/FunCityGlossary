@@ -37,3 +37,6 @@
 [submodule "Hyperstition"]
 	path = Hyperstition
 	url = https://github.com/InterfaceGuy/Hyperstition.git
+[submodule "LiminalWebUI"]
+	path = LiminalWebUI
+	url = https://github.com/InterfaceGuy/LiminalWebUI
