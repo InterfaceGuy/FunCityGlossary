@@ -1,7 +1,9 @@
 {
   "index.html": null,
   "FunCityGlossary.sublime-workspace": null,
+  "CNAME": null,
   "README.md": null,
+  "directory-listing.json": null,
   "DreamSong.canvas": null,
   "FunCityGlossary.sublime-project": null,
   "DomesticatedMind": {
@@ -58,6 +60,9 @@
     "Vision.key": null,
     "README.md": null
   },
+  "Protocol": {
+    "README.md": null
+  },
   "LiminalWebUI": {
     "index.html": null,
     "LiminalWebUI.sublime-workspace": null,
@@ -84,6 +89,9 @@
   "MiracleConsciousness": {
     "MiracleConsciousness.key": null,
     "MiracleConsciousness.png": null,
+    "README.md": null
+  },
+  "Space": {
     "README.md": null
   },
   "CollectiveIntelligence": {

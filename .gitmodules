@@ -40,3 +40,9 @@
 [submodule "LiminalWebUI"]
 	path = LiminalWebUI
 	url = https://github.com/InterfaceGuy/LiminalWebUI
+[submodule "Protocol"]
+	path = Protocol
+	url = https://github.com/InterfaceGuy/Protocol.git
+[submodule "Space"]
+	path = Space
+	url = https://github.com/InterfaceGuy/Space.git
