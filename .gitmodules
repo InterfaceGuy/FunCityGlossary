@@ -46,3 +46,13 @@
 [submodule "Space"]
 	path = Space
 	url = https://github.com/InterfaceGuy/Space.git
+[submodule "Love"]
+	path = Love
+	url = https://github.com/InterfaceGuy/Love.git
+[submodule "Fear"]
+	path = Fear
+	url = https://github.com/InterfaceGuy/Fear.git
+[submodule "Consensus"]
+	path = Consensus
+	url = https://github.com/InterfaceGuy/Consensus.git
+

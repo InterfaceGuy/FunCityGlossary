@@ -18,6 +18,9 @@
     "DomesticatedMind.py": null,
     "HeadWithShoulders": {}
   },
+  "Consensus": {
+    "README.md": null
+  },
   "GameTheory": {
     "GameTheory.key": null,
     "GameTheory.png": null,
@@ -34,12 +37,18 @@
     "Hyperstition.key": null,
     "README.md": null
   },
+  "Love": {
+    "README.md": null
+  },
   "LiminalMind": {
     "LiminalMind.py": null,
     "README.md": null,
     "LiminalMind.png": null,
     "LiminalMind.key": null,
     "HeadWithShoulders": {}
+  },
+  "Fear": {
+    "README.md": null
   },
   "Moloch": {
     "Moloch.gif": null,
@@ -114,7 +123,9 @@
   "DomesticatedMind/HeadWithShoulders": {
     "HeadWithShoulders.c4d": null,
     "README.md": null,
-    "HeadWithShoulders.usdz": null
+    "HeadWithShoulders.usdz": null,
+    "HeadWithShoulders.usda": null,
+    "HeadWithShoulders.py": null
   },
   "LiminalMind/HeadWithShoulders": {
     "HeadWithShoulders.c4d": null,
@@ -138,7 +149,9 @@
   "LiminalWebUI/DomesticatedMind/HeadWithShoulders": {
     "HeadWithShoulders.c4d": null,
     "README.md": null,
-    "HeadWithShoulders.usdz": null
+    "HeadWithShoulders.usdz": null,
+    "HeadWithShoulders.usda": null,
+    "HeadWithShoulders.py": null
   },
   "LiminalWebUI/MeaningCrisis": {
     "MeaningCrisis.gif": null,
@@ -182,11 +195,21 @@
   "Noosphere/LiminalWebUI": {
     "index.html": null,
     "LiminalWebUI.sublime-workspace": null,
+    "update_submodules.py": null,
     "README.md": null,
-    "script.js": null,
+    "directory-listing.json": null,
     "LiminalWebUI.sublime-project": null,
-    "style.css": null
+    "canvas.js": null,
+    "DreamSong.canvas": null,
+    "DomesticatedMind": {},
+    "MeaningCrisis": {},
+    "Emergence": {},
+    "DiaLogos": {}
   },
+  "Noosphere/LiminalWebUI/DomesticatedMind": {},
+  "Noosphere/LiminalWebUI/MeaningCrisis": {},
+  "Noosphere/LiminalWebUI/Emergence": {},
+  "Noosphere/LiminalWebUI/DiaLogos": {},
   "MolochConsciousness/DomesticatedMind": {
     "DomesticatedMind.png": null,
     "DomesticatedMind.key": null,
@@ -202,6 +225,8 @@
   "MolochConsciousness/DomesticatedMind/HeadWithShoulders": {
     "HeadWithShoulders.c4d": null,
     "README.md": null,
-    "HeadWithShoulders.usdz": null
+    "HeadWithShoulders.usdz": null,
+    "HeadWithShoulders.usda": null,
+    "HeadWithShoulders.py": null
   }
 }
