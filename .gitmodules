@@ -56,3 +56,12 @@
 	path = Consensus
 	url = https://github.com/InterfaceGuy/Consensus.git
 
+[submodule "Culture"]
+	path = Culture
+	url = https://github.com/InterfaceGuy/Culture.git
+[submodule "HeavenOnEarth"]
+	path = HeavenOnEarth
+	url = https://github.com/InterfaceGuy/HeavenOnEarth.git
+[submodule "FirstPrinciplesAndFirstValues"]
+	path = FirstPrinciplesAndFirstValues
+	url = https://github.com/InterfaceGuy/FirstPrinciplesAndFirstValues.git
