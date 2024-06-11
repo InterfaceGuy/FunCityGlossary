@@ -65,3 +65,6 @@
 [submodule "FirstPrinciplesAndFirstValues"]
 	path = FirstPrinciplesAndFirstValues
 	url = https://github.com/InterfaceGuy/FirstPrinciplesAndFirstValues.git
+[submodule "CoCreation"]
+	path = CoCreation
+	url = https://github.com/InterfaceGuy/CoCreation.git

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"93258c8eeb70b895","x":-2135,"y":427,"width":400,"height":400,"type":"file","file":"FirstPrinciplesAndFirstValues/README.md"},
+		{"id":"93258c8eeb70b895","type":"file","file":"FirstPrinciplesAndFirstValues/README.md","x":-2135,"y":427,"width":400,"height":400},
 		{"id":"fcc26bfbd61b88de","type":"file","file":"Biosphere/README.md","x":789,"y":1242,"width":400,"height":400},
 		{"id":"3c2f1205e345f1a0","type":"file","file":"Vision/README.md","x":-716,"y":-162,"width":400,"height":400},
 		{"id":"1df0247d7cde60ee","type":"file","file":"Narrative/README.md","x":-196,"y":-191,"width":400,"height":400},
@@ -19,8 +19,9 @@
 		{"id":"76d0742ecae27fb8","type":"file","file":"Fear/README.md","x":-1440,"y":1004,"width":400,"height":400},
 		{"id":"52668e2244586366","type":"file","file":"Space/README.md","x":-916,"y":1140,"width":400,"height":400},
 		{"id":"0ba056fe7cb8e62f","type":"file","file":"Consensus/README.md","x":-774,"y":1642,"width":400,"height":400},
-		{"id":"4afe5100b0c16df9","x":-1491,"y":152,"width":400,"height":400,"type":"file","file":"Culture/README.md"},
-		{"id":"563a444a91fae734","x":-1876,"y":849,"width":400,"height":400,"type":"file","file":"HeavenOnEarth/README.md"}
+		{"id":"4afe5100b0c16df9","type":"file","file":"Culture/README.md","x":-1491,"y":152,"width":400,"height":400},
+		{"id":"563a444a91fae734","type":"file","file":"HeavenOnEarth/README.md","x":-1876,"y":849,"width":400,"height":400},
+		{"id":"13e7c5a93434417a","x":-1935,"y":1540,"width":400,"height":400,"type":"file","file":"CoCreation/README.md"}
 	],
 	"edges":[]
 }
