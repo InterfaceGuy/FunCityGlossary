@@ -1,18 +1,12 @@
 [submodule "Vision"]
 	path = Vision
 	url = https://github.com/InterfaceGuy/Vision.git
-[submodule "MolochConsciousness"]
-	path = MolochConsciousness
-	url = https://github.com/InterfaceGuy/MolochConsciousness.git
 [submodule "GameTheory"]
 	path = GameTheory
 	url = https://github.com/InterfaceGuy/GameTheory.git
 [submodule "Narrative"]
 	path = Narrative
 	url = https://github.com/InterfaceGuy/Narrative.git
-[submodule "Noosphere"]
-	path = Noosphere
-	url = https://github.com/InterfaceGuy/Noosphere.git
 [submodule "MultipolarTrap"]
 	path = MultipolarTrap
 	url = https://github.com/InterfaceGuy/MultipolarTrap.git
@@ -22,21 +16,12 @@
 [submodule "LiminalMind"]
 	path = LiminalMind
 	url = https://github.com/InterfaceGuy/LiminalMind.git
-[submodule "Biosphere"]
-	path = Biosphere
-	url = https://github.com/InterfaceGuy/Biosphere.git
 [submodule "DomesticatedMind"]
 	path = DomesticatedMind
 	url = https://github.com/InterfaceGuy/DomesticatedMind.git
 [submodule "CollectiveIntelligence"]
 	path = CollectiveIntelligence
 	url = https://github.com/InterfaceGuy/CollectiveIntelligence.git
-[submodule "MiracleConsciousness"]
-	path = MiracleConsciousness
-	url = https://github.com/InterfaceGuy/MiracleConsciousness.git
-[submodule "Hyperstition"]
-	path = Hyperstition
-	url = https://github.com/InterfaceGuy/Hyperstition.git
 [submodule "LiminalWebUI"]
 	path = LiminalWebUI
 	url = https://github.com/InterfaceGuy/LiminalWebUI

@@ -27,18 +27,10 @@
     "README.md": null,
     "GameTheory.gif": null
   },
-  "Biosphere": {
-    "Biosphere.key": null,
-    "Biosphere.png": null,
-    "README.md": null
-  },
-  "Hyperstition": {
-    "Hyperstition.png": null,
-    "Hyperstition.key": null,
-    "README.md": null
-  },
   "Love": {
-    "README.md": null
+    "README.md": null,
+    "Love.key": null,
+    "Love.png": null
   },
   "LiminalMind": {
     "LiminalMind.py": null,
@@ -48,7 +40,9 @@
     "HeadWithShoulders": {}
   },
   "Fear": {
-    "README.md": null
+    "README.md": null,
+    "Fear.key": null,
+    "Fear.png": null
   },
   "Moloch": {
     "Moloch.gif": null,
@@ -86,20 +80,6 @@
     "Emergence": {},
     "DiaLogos": {}
   },
-  "Noosphere": {
-    "README.md": null,
-    "DreamSong.canvas": null,
-    "Noosphere.png": null,
-    "Noosphere.key": null,
-    "Narrative": {},
-    "Vision": {},
-    "LiminalWebUI": {}
-  },
-  "MiracleConsciousness": {
-    "MiracleConsciousness.key": null,
-    "MiracleConsciousness.png": null,
-    "README.md": null
-  },
   "FirstPrinciplesAndFirstValues": {
     "README.md": null
   },
@@ -107,6 +87,8 @@
     "README.md": null
   },
   "Space": {
+    "Space.key": null,
+    "Space.png": null,
     "README.md": null
   },
   "HeavenOnEarth": {
@@ -118,19 +100,9 @@
     "CollectiveIntelligence.png": null
   },
   "Culture": {
-    "README.md": null
-  },
-  "MolochConsciousness": {
-    "MolochConsciousness.mp4": null,
-    "MolochConsciousness.c4d": null,
-    "MolochConsciousness.py": null,
-    "MolochConsciousness.gif": null,
     "README.md": null,
-    "MolochConsciousness.sublime-project": null,
-    "MolochConsciousness.sublime-workspace": null,
-    "MolochConsciousness.png": null,
-    "MolochConsciousness.key": null,
-    "DomesticatedMind": {}
+    "Culture.png": null,
+    "Culture.key": null
   },
   "DomesticatedMind/HeadWithShoulders": {
     "HeadWithShoulders.c4d": null,
@@ -189,92 +161,5 @@
     "DiaLogos.key": null,
     "README.md": null,
     "DiaLogos.gif": null
-  },
-  "Noosphere/Narrative": {
-    "Narrative.key": null,
-    "Narrative.png": null,
-    "README.md": null
-  },
-  "Noosphere/Vision": {
-    "Vision.png": null,
-    "Vision.key": null,
-    "README.md": null
-  },
-  "Noosphere/LiminalWebUI": {
-    "index.html": null,
-    "LiminalWebUI.sublime-workspace": null,
-    "update_submodules.py": null,
-    "README.md": null,
-    "directory-listing.json": null,
-    "LiminalWebUI.sublime-project": null,
-    "canvas.js": null,
-    "DreamSong.canvas": null,
-    "DomesticatedMind": {},
-    "MeaningCrisis": {},
-    "Emergence": {},
-    "DiaLogos": {}
-  },
-  "Noosphere/LiminalWebUI/DomesticatedMind": {
-    "DomesticatedMind.png": null,
-    "DomesticatedMind.key": null,
-    "DomesticatedMindProfile.png": null,
-    "DomesticatedMind.sublime-workspace": null,
-    "DomesticatedMind.sublime-project": null,
-    "README.md": null,
-    "DomesticatedMind.gif": null,
-    "DomesticatedMind.mp4": null,
-    "DomesticatedMind.py": null,
-    "HeadWithShoulders": {}
-  },
-  "Noosphere/LiminalWebUI/DomesticatedMind/HeadWithShoulders": {
-    "HeadWithShoulders.c4d": null,
-    "README.md": null,
-    "HeadWithShoulders.usdz": null
-  },
-  "Noosphere/LiminalWebUI/MeaningCrisis": {
-    "MeaningCrisis.gif": null,
-    "README.md": null,
-    "SittingDepressedOnChair.svg": null,
-    "SittingDepressed.svg": null,
-    "MeaningCrisis.key": null,
-    "MeaningCrisis.png": null,
-    "LiminalWebUI": {}
-  },
-  "Noosphere/LiminalWebUI/MeaningCrisis/LiminalWebUI": {
-    "index.html": null,
-    "README.md": null,
-    "script.js": null,
-    "style.css": null
-  },
-  "Noosphere/LiminalWebUI/Emergence": {
-    "Emergence.gif": null,
-    "Emergence.sublime-project": null,
-    "README.md": null,
-    "Emergence.py": null,
-    "Emergence.sublime-workspace": null,
-    "Emergence.key": null
-  },
-  "Noosphere/LiminalWebUI/DiaLogos": {
-    "DiaLogos.png": null,
-    "DiaLogos.key": null,
-    "README.md": null,
-    "DiaLogos.gif": null
-  },
-  "MolochConsciousness/DomesticatedMind": {
-    "DomesticatedMind.png": null,
-    "DomesticatedMind.key": null,
-    "DomesticatedMindProfile.png": null,
-    "DomesticatedMind.sublime-workspace": null,
-    "DomesticatedMind.sublime-project": null,
-    "README.md": null,
-    "DomesticatedMind.gif": null,
-    "DomesticatedMind.mp4": null,
-    "DomesticatedMind.py": null,
-    "HeadWithShoulders": {}
-  },
-  "MolochConsciousness/DomesticatedMind/HeadWithShoulders": {
-    "HeadWithShoulders.c4d": null,
-    "README.md": null,
-    "HeadWithShoulders.usdz": null
   }
 }
