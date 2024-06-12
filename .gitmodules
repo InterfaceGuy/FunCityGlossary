@@ -7,12 +7,6 @@
 [submodule "Narrative"]
 	path = Narrative
 	url = https://github.com/InterfaceGuy/Narrative.git
-[submodule "MultipolarTrap"]
-	path = MultipolarTrap
-	url = https://github.com/InterfaceGuy/MultipolarTrap.git
-[submodule "Moloch"]
-	path = Moloch
-	url = https://github.com/InterfaceGuy/Moloch.git
 [submodule "LiminalMind"]
 	path = LiminalMind
 	url = https://github.com/InterfaceGuy/LiminalMind.git
