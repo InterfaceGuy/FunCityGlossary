@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5d4a82dcb822fb36","type":"file","file":"EarthPower/README.md","x":-2921,"y":940,"width":400,"height":400},
 		{"id":"93258c8eeb70b895","type":"file","file":"FirstPrinciplesAndFirstValues/README.md","x":-2135,"y":427,"width":400,"height":400},
 		{"id":"3c2f1205e345f1a0","type":"file","file":"Vision/README.md","x":-716,"y":-162,"width":400,"height":400},
 		{"id":"1df0247d7cde60ee","type":"file","file":"Narrative/README.md","x":-196,"y":-191,"width":400,"height":400},
@@ -14,7 +15,12 @@
 		{"id":"0ba056fe7cb8e62f","type":"file","file":"Consensus/README.md","x":-774,"y":1642,"width":400,"height":400},
 		{"id":"4afe5100b0c16df9","type":"file","file":"Culture/README.md","x":-1491,"y":152,"width":400,"height":400},
 		{"id":"563a444a91fae734","type":"file","file":"HeavenOnEarth/README.md","x":-1876,"y":849,"width":400,"height":400},
-		{"id":"13e7c5a93434417a","type":"file","file":"CoCreation/README.md","x":-1935,"y":1540,"width":400,"height":400}
+		{"id":"13e7c5a93434417a","type":"file","file":"CoCreation/README.md","x":-1935,"y":1540,"width":400,"height":400},
+		{"id":"8668b6e3b3d5bcb3","type":"file","file":"NatureIntelligence/README.md","x":-3121,"y":2329,"width":400,"height":400},
+		{"id":"a70f0ec307ca4d6b","type":"file","file":"SkyPower/README.md","x":-3121,"y":1404,"width":400,"height":400},
+		{"id":"e0a094a47ca0df64","type":"file","file":"HumanIntelligence/README.md","x":-2460,"y":1540,"width":400,"height":400},
+		{"id":"0d249891f91ca823","type":"file","file":"SuperAlignment/README.md","x":-2180,"y":2220,"width":400,"height":400},
+		{"id":"70b8394522221874","type":"file","file":"MachineIntelligence/README.md","x":-2980,"y":1880,"width":400,"height":400}
 	],
 	"edges":[]
 }

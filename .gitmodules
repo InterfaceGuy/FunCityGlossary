@@ -47,3 +47,21 @@
 [submodule "CoCreation"]
 	path = CoCreation
 	url = https://github.com/InterfaceGuy/CoCreation.git
+[submodule "MachineIntelligence"]
+	path = MachineIntelligence
+	url = https://github.com/InterfaceGuy/MachineIntelligence.git
+[submodule "EarthPower"]
+	path = EarthPower
+	url = https://github.com/InterfaceGuy/EarthPower.git
+[submodule "HumanIntelligence"]
+	path = HumanIntelligence
+	url = https://github.com/InterfaceGuy/HumanIntelligence.git
+[submodule "SkyPower"]
+	path = SkyPower
+	url = https://github.com/InterfaceGuy/SkyPower.git
+[submodule "SuperAlignment"]
+	path = SuperAlignment
+	url = https://github.com/InterfaceGuy/SuperAlignment.git
+[submodule "NatureIntelligence"]
+	path = NatureIntelligence
+	url = https://github.com/InterfaceGuy/NatureIntelligence.git

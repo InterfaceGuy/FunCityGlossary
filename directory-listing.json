@@ -21,11 +21,17 @@
   "Consensus": {
     "README.md": null
   },
+  "SuperAlignment": {
+    "README.md": null
+  },
   "GameTheory": {
     "GameTheory.key": null,
     "GameTheory.png": null,
     "README.md": null,
     "GameTheory.gif": null
+  },
+  "SkyPower": {
+    "README.md": null
   },
   "Love": {
     "README.md": null,
@@ -47,6 +53,9 @@
   "Narrative": {
     "Narrative.key": null,
     "Narrative.png": null,
+    "README.md": null
+  },
+  "MachineIntelligence": {
     "README.md": null
   },
   "Vision": {
@@ -71,7 +80,13 @@
     "Emergence": {},
     "DiaLogos": {}
   },
+  "EarthPower": {
+    "README.md": null
+  },
   "FirstPrinciplesAndFirstValues": {
+    "README.md": null
+  },
+  "HumanIntelligence": {
     "README.md": null
   },
   "CoCreation": {
@@ -89,6 +104,9 @@
     "README.md": null,
     "CollectiveIntelligence.key": null,
     "CollectiveIntelligence.png": null
+  },
+  "NatureIntelligence": {
+    "README.md": null
   },
   "Culture": {
     "README.md": null,
